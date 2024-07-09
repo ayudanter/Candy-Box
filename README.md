@@ -13,3 +13,6 @@ ES_Extended
 2. Extract files to folder
 3. If scripts don't automatically start add `start ar_candybox` to your server.cfg
 4. Restart your server
+
+For any questions join the discord with the link below
+https://discord.gg/ardevelopment
